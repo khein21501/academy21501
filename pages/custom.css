@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar{
+    height: 100px;
+    
+}
+.navbar a:hover{
+    letter-spacing: 2px; 
+    transition-duration: 0.5s;
+}
