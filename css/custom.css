@@ -100,6 +100,7 @@ header {
     float: left;
     height: auto;
 }
+
 .right-header {
     float: right;
 	margin:11px 0;
@@ -107,6 +108,7 @@ header {
 .header-info {
     float: left;
     width: 100%;
+    margin-top: 5px;
 }
 .info-inner {
     float: left;
@@ -125,10 +127,10 @@ header {
 	transition: ease all 1s;
     margin-top: -6px;
     border: 0.5px solid #064184;
-    border-radius: 30%;
+    border-radius: 25%;
 }
 .iconcont {
-    float: right;
+    float: left;
     font-size: 15px;
     letter-spacing: -1px;
     margin: 4px 0;
@@ -273,8 +275,9 @@ header {
     display: flex;
     margin-bottom: 20px;
 }
-.info-inner span.icontop i.fa-clock-o {
-    font-size: 25px;
+.info-inner span.icontop i{
+    font-size: 20px;
+    
 }
 .info-inner:hover span.icontop,.info-inner:focus span.icontop {
     border-radius: 100%;
@@ -461,7 +464,7 @@ hr.hr1 {
 }
 .services {
     width: 100%;
-    background: url('../images/service-bg.png');
+    background: url("../images/khh.jpg");
     padding: 75px 0;
     background-size: cover;
     background-attachment: fixed;
@@ -1155,6 +1158,7 @@ header {
 }
 .right-header {
     display: none;
+    
 }
 .navbar-header {
     float: right;
