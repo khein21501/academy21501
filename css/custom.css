@@ -464,7 +464,7 @@ hr.hr1 {
 }
 .services {
     width: 100%;
-    background: url("../images/khh.jpg");
+    background: url("../images/honey1.png");
     padding: 75px 0;
     background-size: cover;
     background-attachment: fixed;
@@ -801,7 +801,7 @@ body.clinic_version .footer .widget-title h3 {
     color: #222;
     font-size: 22px;
     font-weight: 600;
-    border-left: solid #157fda 5px;
+    border-left: solid #064184 5px;
     padding: 0 0 0 15px;
     margin-bottom: 24px;
 }
@@ -819,9 +819,9 @@ body.clinic_version .footer .widget-title h3 {
 }
 .copyright-area {
     padding: 20px 0px;
-    background: #157fda;
+    background: #064184;
     color: #fff;
-	float:left;
+	float:right;
 	width:100%;
 }
 .footer-text p {
@@ -847,7 +847,7 @@ body.clinic_version .footer .widget-title h3 {
     font-size: 25px;
     width: 30px;
     text-align: center;
-	color: #157fda;
+	color:#064184;
 }
 .preloader {
     width: 350px;
